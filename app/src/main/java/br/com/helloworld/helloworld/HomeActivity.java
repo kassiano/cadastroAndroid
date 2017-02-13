@@ -12,6 +12,9 @@ public class HomeActivity extends AppCompatActivity {
     TextView text_nome_usuario, text_email_usuario;
     SharedPreferences sharedPreferences;
 
+
+    String variavel_teste;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
