@@ -18,6 +18,12 @@ import java.util.HashMap;
 public class LoginActivity extends AppCompatActivity {
 
 
+    /*
+
+        ALTERAÇÃO GIT 13/02/2017
+
+     */
+
     EditText edit_login, edit_senha;
 
     SharedPreferences sharedPreferences;
